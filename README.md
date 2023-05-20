@@ -2,7 +2,7 @@
 ![Anubhav](https://i.ibb.co/dBxww2c/Sushi.png)
 
 ## Introduction
-Are you wondering how to make a website using #HTML and #CSS? Join me today to create a modern, fully responsive HTML & CSS website with animations!
+I had make a website using #HTML and #CSS? Join me today to create a modern, fully responsive HTML & CSS website with animations!
  
 In this Project, I have used how to:
 - Use CSS variables
